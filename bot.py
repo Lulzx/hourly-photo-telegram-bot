@@ -8,15 +8,15 @@ dbx = dropbox.Dropbox('YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
 #enter your dropbox access token in the ('') above
 
 #telegram bot auth token (given by @BotFather upon your bot's creation)
-token = 'XXXXXXXXX:YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY'
+token = '470575426:AAHZCwNzJbcsVc72KiyxpgsNEA70J2VCPvo'
 #enter your telegram bot's auth token in the '' above
 
 #the chat_id of the channel where all the pictures will be posted
-channel = -XXXXXXXXXXXXX
+channel = -1127989355
 #enter your telegram channel's chat_id after the = above
 
 #the id of the bot itself
-botID = XXXXXXXXX
+botID = 470575426
 #enter your telegram bot's id after the = above
 
 #initialize the scheduler
