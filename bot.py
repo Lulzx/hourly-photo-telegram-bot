@@ -4,7 +4,7 @@ import sched, time
 import dropbox
 
 #initialize the dropbox folder
-dbx = dropbox.Dropbox('YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY')
+dbx = dropbox.Dropbox('HcttQEmTODAAAAAAAAABZbZB9YSF6ROT2kZdv5q7cDyhrpjOvqcrEVomLdTrUALs')
 #enter your dropbox access token in the ('') above
 
 #telegram bot auth token (given by @BotFather upon your bot's creation)
